@@ -1,7 +1,7 @@
 
 # info.py — Jayla's portfolio data
 # --- About Me ---
-profile_picture = "profile.jpg"  # add your photo to this folder with this filename (or update it here)
+profile_picture = "Images/profile.JPG"  # add your photo to this folder with this filename (or update it here)
 about_me = (
     "Hi, I'm Jayla! I'm a Computer Science major at Georgia Tech. "
     "Outside of class, I enjoy reading and playing piano."
@@ -39,7 +39,7 @@ experience_data = {
         [
             "Made sure guests got a great experience every time.",
         ],
-        "experience1.jpg",
+        "Images/experience1.jpg",
  ),
 }
 
@@ -78,7 +78,7 @@ leadership_data = {
         [
             "Served as a liaison between residents and hall staff.",
         ],
-        "leadership1.jpeg",
+        "Images/leadership1.jpeg",
     ),
 }
 
